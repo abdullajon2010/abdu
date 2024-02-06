@@ -456,8 +456,10 @@ h1{
     font-size: 13px;
 }
 .boy1{
-    margin-top: 26%;
+    margin-top: 25%;
     margin-left: 5%;
+    height: 900px;
+    padding-top: 90px;
 }
 .lin{
     color: #484848;
@@ -553,7 +555,7 @@ h1{
         text-align: center;
         margin: 0;
     }
-    .ban-img1{
+    .col-first1{
         width: 100%;
         margin: 0;
         margin-top: 5%;
