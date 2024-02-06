@@ -11,7 +11,7 @@
 .button button{
     border-radius: 8px;
     color: #fff;
-   
+    
 }
 
 ul{
@@ -25,12 +25,13 @@ ul{
     color: #fff;
     padding: 10px 30px;
     margin-left: 70px;
+    text-decoration: none;
 }
 
 
 .brand{
     
-    color:clrgb(72, 72, 72) ;
+    color: rgb(72, 72, 72) ;
     margin-left: 100px;
 }
 
